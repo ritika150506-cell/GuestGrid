@@ -49,10 +49,6 @@ python main.py
 | 7 | Print Seating Chart |
 | 8 | Exit |
 
-## Important Note
-
-Guest information is stored temporarily while the program is running. The information is cleared when the application is closed.
-
 ## Conclusion
 
 GuestGrid provides a simple and organised way to manage event guests, food preferences and seating arrangements using Python.
